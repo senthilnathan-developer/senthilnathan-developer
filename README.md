@@ -4,5 +4,5 @@
 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,zoho,github,vscode" />
+<img src="https://skillicons.dev/icons?i=bootstrap,js,react,python,figma,github,vscode" />
 </p>
