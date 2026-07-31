@@ -5,5 +5,5 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,js,react,python,figma,github" />
 </p>
